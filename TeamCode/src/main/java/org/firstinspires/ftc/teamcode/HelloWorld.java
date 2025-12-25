@@ -12,7 +12,7 @@ public class HelloWorld extends OpMode {
 
     @Override
     public void init() {
-        telemetry.addData("Hello","Daniel");
+        telemetry.addData("Hello","Amethyst");
     }
 
     @Override
